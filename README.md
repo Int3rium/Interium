@@ -58,7 +58,7 @@ Builds both the builder and the stub.
 ./interium --mode binder --file payload.exe --level high --self-delete --hidden --rtlo
 ```
 
-The `--rtlo` flag inserts a right-to-left override character so `loader‮gnp.cmd` shows up as `loaderdmc.png` in Explorer. Pretty funny ngl.
+![img](img/A.png)
 
 ## ai disclosure
 
